@@ -72,7 +72,17 @@ Our goal is to **enhance disaster preparedness** by providing early warnings and
 
 ## 🗂️ Folder Structure
 
-📦EmergeSense ┣ 📜 New_Amit_Earthquake_Forecasting.ipynb ┣ 📜 cleaned_earthquake_data.csv ┣ 📜 multimodal_model.pkl ┣ 📜 README.md ┗ 📂 (Data Sources Folder)
+📦EmergeSense ┣ 
+
+      📜 New_Amit_Earthquake_Forecasting.ipynb ┣ 
+
+      📜 cleaned_earthquake_data.csv ┣ 
+
+      📜 multimodal_model.pkl ┣ 
+
+      📜README.md 
+      
+      ┗ 📂 (Data Sources Folder)
 
 ---
 
