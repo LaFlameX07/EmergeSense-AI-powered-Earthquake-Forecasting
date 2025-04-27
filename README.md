@@ -128,8 +128,6 @@ This project is open-source under the [MIT License](LICENSE).
 ## 🙌 Acknowledgements
 
 - [USGS Earthquake Data API](https://earthquake.usgs.gov/)
-- [NASA SRTM Elevation Data](https://www2.jpl.nasa.gov/srtm/)
-- [CHIRPS Rainfall Data](https://www.chc.ucsb.edu/data/chirps)
 
 ---
 
