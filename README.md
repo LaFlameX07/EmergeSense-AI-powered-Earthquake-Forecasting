@@ -1,6 +1,6 @@
 # 🌎 EmergeSense – AI-powered Earthquake and Flood Forecasting
 
-![EmergeSense Banner](https://user-images.githubusercontent.com/your_banner_link_here.png) <!-- (Optional: Add a banner image here) -->
+![EmergeSense Banner]([https://user-images.githubusercontent.com/your_banner_link_here.png](https://media.istockphoto.com/id/2007470156/photo/seismic-waves-analysis.jpg?s=612x612&w=0&k=20&c=pFIxaMgK99GRzRFOHCijZgZ6ieGbQKywsywHMzIAmiw=)) <!-- (Optional: Add a banner image here) -->
 
 ## 📖 About the Project
 **EmergeSense** is an AI-powered disaster response system that integrates **machine learning** and **geospatial data analysis** to **predict earthquakes and floods** in real-time.  
